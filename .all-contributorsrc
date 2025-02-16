@@ -136,6 +136,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "leopardracer",
+      "name": "leopardracer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136604165?v=4",
+      "profile": "https://github.com/leopardracer",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nnsW3",
+      "name": "Elias Rad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146735585?v=4",
+      "profile": "https://github.com/nnsW3",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "dev-araujo",
+      "name": "Adriano P. Araujo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97068163?v=4",
+      "profile": "https://dev-araujo.com.br/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vtjl10",
+      "name": "fuder.eth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139509124?v=4",
+      "profile": "https://github.com/vtjl10",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
